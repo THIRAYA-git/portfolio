@@ -38,6 +38,4 @@ Hi, I'm Fathima Thiraya, a final-year BSc Management Information Technology stud
 - [GitHub](https://github.com/THIRAYA-git)
 - [Email](mailto:thirayafathima@gmail.com)
 
-## License
 
-This portfolio is open source and available for reference.

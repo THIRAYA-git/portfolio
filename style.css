@@ -132,7 +132,7 @@ nav {
   display: none;
   position: fixed;
   top: 73px; left: 16px; right: 16px;
-  background: rgba(0,229,160,0.15);
+  background: rgba(117, 247, 208, 0.988);
   border: 1px solid rgba(0,229,160,0.4);
   border-radius: 16px;
   padding: 16px;
@@ -149,7 +149,7 @@ nav {
   margin-bottom: 6px; transition: all 0.3s;
 }
 
-.mobile-menu a:hover { background: rgba(0,229,160,0.25); border-color: var(--accent); color: #0a0a0f; padding-left: 24px; transform: translateX(4px); }
+.mobile-menu a:hover { background:  #00e5a0; border-color: var(--accent); color: #00e5a0; padding-left: 24px; transform: translateX(4px); }
 
 section { position: relative; z-index: 1; padding: 120px 48px; }
 .content { max-width: 1200px; margin: 0 auto; }
